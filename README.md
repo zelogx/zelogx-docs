@@ -15,16 +15,16 @@ Pacemakerによるクラスタ制御、rsyslogの監視強化、そしてイン�
 Zelogx combines active-active architecture, automated health checks, and intelligent queue separation  
 to deliver a logging infrastructure ready for regulated and high-security environments.
 
-**プロジェクト概要**
+**プロジェクト概要:**
 Zelogx（ゼログックス）は、ログの完全性を最重要視した高可用性のロギングインフラです。Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジェントなログキュー分離設計により、ゼロドロップ運用とGUIによる一元管理を実現します。
 
-**主な特徴**
+**主な特徴:**
 ゼロドロップ保証：ログの完全性を最重要視し、データの損失を防止
 高可用性構成：Pacemakerによるクラスタ制御でシステムの冗長性を確保
 GUIによる一元管理：直感的なインターフェースで運用を効率化
 インテリジェントなログキュー分離：ログの種類や重要度に応じた柔軟な処理
 
-**導入方法**
+**導入方法:**
 ***リポジトリをクローンします：***
 git clone https://github.com/zelogx/zelogx-core.git
 
