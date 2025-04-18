@@ -42,9 +42,6 @@ to deliver a logging infrastructure ready for regulated and high-security enviro
 1. リポジトリをクローンします：
    ```bash
    git clone https://github.com/zelogx/zelogx-core.git
-
-2. bootstrap.shを起動します：  
-   ```bash
    cd zelogx-core  
    ./bootstrap.sh  
 
