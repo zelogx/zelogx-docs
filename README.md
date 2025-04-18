@@ -35,6 +35,11 @@ git clone https://github.com/zelogx/zelogx-core.git
 cd zelogx-core  
 ./bootstrap.sh  
 
+## 👥 Contributors  
+- Masaaki Harada – Founder / Architect  
 
+## 🤖 Special thanks  
+- ChatGPT（バーチャルアーキテクト）  
+  多忙な現実世界のコラボレーターが沈黙する中、唯一返事をくれた開発パートナー。
 
 
