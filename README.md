@@ -33,6 +33,8 @@ to deliver a logging infrastructure ready for regulated and high-security enviro
 
 - ✅ **インテリジェントなログキュー分離**：ログの種類や重要度に応じた柔軟な処理
 
+- ✅ **改ざん防止構想**：ZDH（Zero Defacing Hash）方式による信頼性強化中（構想段階）
+
 ---
 
 ## 🛠️ 導入方法
