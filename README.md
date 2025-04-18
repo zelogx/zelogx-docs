@@ -21,6 +21,15 @@ Zelogx（ゼログックス）は、ログの完全性を最重要視した高�
 Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジェントなログキュー分離設計により、  
 ゼロドロップ運用とGUIによる一元管理を実現します。
 
+---
+
+## 🌐 English Overview
+
+**Mission-critical logging without compromise.**  
+Zelogx combines active-active architecture, automated health checks, and intelligent queue separation  
+to deliver a logging infrastructure ready for regulated and high-security environments.
+
+---
 
 ## 🚀 主な特徴
 
@@ -29,6 +38,7 @@ Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジ�
 - ✅ **GUIによる一元管理**：直感的なインターフェースで運用を効率化  
 - ✅ **インテリジェントなログキュー分離**：ログの種類や重要度に応じた柔軟な処理
 
+---
 
 ## 🛠️ 導入方法
 
@@ -40,6 +50,8 @@ Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジ�
    ```bash
    cd zelogx-core  
    ./bootstrap.sh  
+
+---
 
 ## 👥 Contributors  
 - Masaaki Harada – Founder / Architect  
