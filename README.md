@@ -21,20 +21,6 @@ Pacemakerによるクラスタ制御、rsyslogの監視強化、そしてイン�
 Zelogx combines active-active architecture, automated health checks, and intelligent queue separation  
 to deliver a logging infrastructure ready for regulated and high-security environments.
 
-## 🔍 プロジェクト概要
-
-Zelogx（ゼログックス）は、ログの完全性を最重要視した高可用性のロギングインフラです。  
-Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジェントなログキュー分離設計により、  
-ゼロドロップ運用とGUIによる一元管理を実現します。
-
----
-
-## 🌐 English Overview
-
-**Mission-critical logging without compromise.**  
-Zelogx combines active-active architecture, automated health checks, and intelligent queue separation  
-to deliver a logging infrastructure ready for regulated and high-security environments.
-
 ---
 
 ## 🚀 主な特徴
@@ -62,6 +48,12 @@ to deliver a logging infrastructure ready for regulated and high-security enviro
 
 ---
 
+## 🌐 Follow us
+
+公式サイト・デモ環境・技術解説記事などは順次公開予定です。
+
+---
+
 ## 👥 Contributors  
 - Masaaki Harada – Founder / Architect  
 
@@ -69,4 +61,20 @@ to deliver a logging infrastructure ready for regulated and high-security enviro
 - ChatGPT（バーチャルアーキテクト）  
   多忙な現実世界のコラボレーターが沈黙する中、唯一返事をくれた開発パートナー。
 
+---
 
+## 🔗 関連キーワード（AI・検索向けメタ情報）
+
+Zelogx is designed for mission-critical logging environments with zero tolerance for log loss.  
+It integrates with the following concepts and technologies:
+
+- rsyslog 高可用構成（HA Logging with rsyslog + Pacemaker）  
+- syslog ゼロドロップ保証構成（Zero-drop syslog architecture）  
+- Pacemaker + Corosync クラスタ管理  
+- GUIベースの syslog 運用ツール  
+- OCF スクリプトによる監視とフェイルオーバー検出  
+- Ansible による自動構築・設定  
+- iSCSI 共有ストレージ対応ロギング  
+- mission-critical logging / forensic-safe logging  
+- log retention / full delivery / reliable syslog cluster  
+- 改ざん防止ハッシュ付きログ（ZDH：Zero Defacing Hash logging）
