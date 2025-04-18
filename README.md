@@ -38,8 +38,8 @@ Pacemakerによるクラスタ制御、rsyslogの監視強化、インテリジ�
 
 2. bootstrap.shを起動します：  
    ```bash
-cd zelogx-core  
-./bootstrap.sh  
+   cd zelogx-core  
+   ./bootstrap.sh  
 
 ## 👥 Contributors  
 - Masaaki Harada – Founder / Architect  
