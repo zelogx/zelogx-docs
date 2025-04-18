@@ -48,10 +48,7 @@ to deliver a logging infrastructure ready for regulated and high-security enviro
 ---
 
 ## 🌐 Follow us
-
 公式サイト・デモ環境・技術解説記事などは順次公開予定です。
-
----
 
 ## 👥 Contributors  
 - Masaaki Harada – Founder / Architect  
