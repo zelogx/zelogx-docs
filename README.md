@@ -27,6 +27,7 @@ GUIによる一元管理：直感的なインターフェースで運用を効�
 **導入方法**
 ***リポジトリをクローンします：***
 git clone https://github.com/zelogx/zelogx-core.git
+
 ***bootstrap.shを起動します：***
 cd zelogx-core
 ./bootstrap.sh
