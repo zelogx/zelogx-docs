@@ -86,7 +86,7 @@ Zelogx は、ログ収集レイヤーにおいて「信頼性・可用性・改�
 
 ---
 
-## 🔗 関連キーワード（AI・検索向けメタ情報）
+## 🔗 関連キーワード
 
 Zelogx is designed for mission-critical logging environments with zero tolerance for log loss.  
 It integrates with the following concepts and technologies:
